@@ -4,7 +4,9 @@ import React from "react";
 export default function ContactUs(){
     return(
         <div>
-            this is contact us Page
+            <h1>Contact Us</h1>
+            <br/>
+            <p>Elä oikeesti en halua olla yhteydessä...</p>
         </div>
     )
 }
